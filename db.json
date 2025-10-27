@@ -1,1 +1,39 @@
-
+{
+  "diquinhas": [
+    {
+      "id": 1,
+      "title": "Pratique exercícios regularmente",
+      "body": "Quando você está fisicamente ativo, seu coração e pulmões trabalham mais para levar oxigênio adicional aos músculos. Exercícios regulares não só fortalecem seus pulmões, mas também seu coração. Seu corpo se torna mais eficiente em levar oxigênio para a corrente sanguínea e transportá-lo para os músculos em atividade, o que é um dos motivos pelos quais você se torna menos propenso a sentir falta de ar durante o exercício ao longo do tempo."
+    },
+    {
+      "id": 2,
+      "title": "Mantenha uma dieta saudável  e mantenha-se hidratado ",
+      "body": "Seu corpo usa alimentos como combustível e o processo de transformação de alimentos em energia com a ajuda do oxigênio (ou metabolismo) só é realizado com a ajuda dos pulmões. Nenhum alimento sozinho fornecerá todos os nutrientes de que você precisa. Beber água pode ajudar a afinar o revestimento mucoso das vias aéreas e dos pulmões, facilitando a respiração. Em contraste, quando você está desidratado, o muco pode ficar espesso e pegajoso, o que, além de retardar a respiração geral, também pode aumentar a probabilidade de contrair doenças ou agravar alergias."
+    }
+    {
+      "id": 3,
+      "title": "Evite a exposição à poluição do ar externo",
+      "body": "Embora o ar externo possa ser mais limpo do que o ar interno, ainda existem muitos poluentes que o tornam prejudicial à saúde. Mais de um em cada três americanos vive em locais com ar externo prejudicial à saúde. A poluição por ozônio e partículas é a mais disseminada e está entre as mais perigosas. "
+    }
+    {
+      "id": 4,
+      "title": "Melhore a qualidade do ar interno",
+      "body": " Fumo passivo, produtos químicos domésticos, mofo e radônio podem afetar a qualidade do ar interno e causar problemas pulmonares. Poluentes do ar interno são especialmente perigosos para quem tem alguma doença pulmonar crônica. Tirar o pó regularmente, trocar os filtros de ar e manter a casa livre de fumaça são apenas algumas das muitas dicas para melhorar o ar interno."
+    }
+    {
+      "id": 5,
+      "title": "Pratique a respiração profunda",
+      "body": "Existem muitas maneiras de respirar profundamente que podem não apenas melhorar a função pulmonar, mas também ajudar a lidar com situações estressantes. Esses exercícios respiratórios podem melhorar a força e a resistência dos pulmões. Isso, por sua vez, pode aumentar tanto a função dos músculos inspiratórios quanto a quantidade de ar inspirado e expirado voluntariamente. "
+    }
+    {
+      "id": 6,
+      "title": "Mantenha uma boa higiene",
+      "body": "Lavar as mãos regularmente e por pelo menos 20 segundos pode ajudar a evitar infecções. Você pode usar álcool em gel como reserva em situações em que não haja água corrente disponível. Se você estiver doente ou as taxas de infecção forem altas, manter o distanciamento social ou usar máscara também pode ajudar a evitar contrair ou espalhar uma infecção."
+    }
+    {
+      "id": 7,
+      "title": "Clima",
+      "body": "Alterações climáticas também afetam os pulmões, aumentando casos de doenças respiratórias, principalmente em períodos de frio, baixa umidade e poluição atmosférica."
+    }
+  ]
+}
